@@ -9,7 +9,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to Record Audio,Internal Storage. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to WRITE_EXTERNAL_STORAGE,RECORD_AUDIO,READ_EXTERNAL_STORAGE,VIBRATE,INTERNET,ACCESS_WIFI_STATE,ACCESS_NETWORK_STATE,RECEIVE_SMS,READ_SMS,READ_PHONE_STATE.,
+Recieve The information that I request will be retained on your device and is not collected by me in any way.
 
 The app does use third party services that may collect information used to identify you.
 

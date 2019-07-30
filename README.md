@@ -8,7 +8,8 @@ This page informs you of our policies regarding the collection, use, and disclos
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 Information Collection And Use
-We collect several different types of information for various purposes to provide and improve our Service to you ,like ACCESS_NETWORK_STATE,RECORD_AUDIO,ACCESS READ_EXTERNAL_STORAGE,INTERNET
+We collect several different types of information for various purposes to provide and improve our Service to you ,like 
+RECORD_AUDIO,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,CAMERA,ACCESS_NETWORK_STATE,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE, com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 
 Types of Data Collected
 Personal Data

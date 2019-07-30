@@ -1,5 +1,5 @@
 # Privacy Policy
-Effective date: 7/30/2019
+Effective date: Tuesday July 30 ,2019
 
 Pro4Store ("us", "we", or "our") operates the Pro4Store mobile application (the "Service").
 

@@ -9,7 +9,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 Information Collection And Use
 We collect several different types of information for various purposes to provide and improve our Service to you ,like 
-RECORD_AUDIO,READ_EXTERNAL_STORAGE,INTERNET,VIBRATE,WRITE_EXTERNAL_STORAGE,CAMERA,ACCESS_NETWORK_STATE,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE, com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+RECORD_AUDIO,VIBRATE,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE,CAMERA,ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK,RECEIVE,BIND_GET_INSTALL_REFERRER_SERVICE,
 
 Types of Data Collected
 Personal Data
